@@ -4,8 +4,16 @@
 multiple line comment
 first cahpter is addition
 */
-var x =23,5;
-var x =24,5;
+var x =23,for (let index = 0; index < array.length; index++) {
+	const element = array[index];
+	const
+} newLocal = 5;
+var x =24,for (let index = 0; index < array.length; index++) {
+	const element = array[index];
+	do
+} {
+	5
+} while (condition);;
 var addition = x+y;
 console.log(addition)
 /*
